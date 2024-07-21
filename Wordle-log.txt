@@ -1,0 +1,2 @@
+quirk,W,1
+krill,L,6
