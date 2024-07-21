@@ -1,4 +1,4 @@
-**Wordle Game**
+**Wordle Game**:
 This repository contains a Python implementation of the popular word puzzle game, Wordle. The game randomly selects a five-letter word, and the player has six attempts to guess it correctly. After each guess, the game provides feedback indicating which letters are correctly placed, which letters are in the word but misplaced, and which letters are not in the word.
 
 **Features**
